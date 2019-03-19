@@ -1,0 +1,41 @@
+div {
+	outline: 30px solid #bdc3c7;
+	float: center;
+	margin-left: 25%;
+	margin-right: 25%;
+	border-top: 10%;
+}
+
+h4 {
+	color: #3498db;
+	font-family: source sans pro;
+	text-align: left;
+	text-transform: uppercase;
+	letter-spacing: 2px;	
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+h1 {
+	font-family: source sans pro;
+	padding-left: 10px;
+	font-style: bold;
+}
+
+p {
+	font-family: source sans pro;
+	padding: 10px;
+	width: 90%;	
+	font-style: bold;
+}
+.greyline {
+	border-left: 2px solid #bdc3c7
+	float: right;
+
+
+}
+.greyseparate {
+	border-bottom: 1px solid #bdc3c7
+
+}
+
